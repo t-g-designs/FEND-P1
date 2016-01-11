@@ -1,0 +1,47 @@
+body {
+    color: #666756; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+hr {
+    border-width: 5px;
+}
+
+.image-banner {
+    margin-bottom: 30px;
+}
+
+.text-muted {
+    color: #bcbbbb;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-logo {
+    margin-top: 25px;
+}
+
+.title-main {
+    font-size: 60px;
+}
+
+.feature-header {
+    font-size: 3em;
+    margin-bottom: 30px;
+    }
+
+.feature-title {
+    font-size: 3.0em;
+}
+
+.feature-link {
+    font-size: 25px;
+}
+
+.coming-soon {
+    font-size: 75px;
+    margin-top: 30px;
+}
